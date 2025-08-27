@@ -1,5 +1,3 @@
-# Notes
-Personal notes on Electrical Engineering and other things.
+Handwritten notes, mostly for Electrical Engineering courses and practical applications.
 
-
-Repo Files
+Content List:
